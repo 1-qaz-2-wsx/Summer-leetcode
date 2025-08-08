@@ -97,3 +97,27 @@ Here are some useful emojis and their typical usage in technical note-taking.
   Things to revise or write later.
 
 ---
+
+## 🔗 常用链接类 Emoji Link Emojis
+
+- 🔗：链接 / 链接符号 （常用在“更多资料 🔗”）
+- 👉：指向 / 推荐（👉 [参考链接](...)）
+- 📎：附件 / 附带资料（📎 相关文档）
+- 🧭：导航 / 传送门（🧭 入口 | 目录）
+- 🚀：快速访问 / 快捷入口（🚀 点击跳转）
+- 🌐：网页 / 官方站点（🌐 官方文档）
+- 🔍：查看更多 / 查询（🔍 搜索入口）
+- 📚：阅读材料 / 延伸阅读（📚 推荐阅读）
+- 💡：知识点 / 引申（💡 拓展链接）
+- 📥：下载链接 / 收下它（📥 下载入口）
+- 🛠️：工具类链接（🛠️ 在线编辑器 / 工具页）
+- 🧪：实验性功能链接（🧪 测试区）
+
+---
+
+## ✏️ 示例用法：
+
+- 👉 [LeetCode 官方题目传送门](https://leetcode.cn)
+- 📚 [链表知识点笔记](./ListNode/707.md)
+- 🛠️ [Git 可视化工具](https://git-school.github.io/visualizing-git/)
+- 🌐 [Java API 官网](https://docs.oracle.com/javase/8/docs/api/)
